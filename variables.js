@@ -1,3 +1,3 @@
 
-let example = 'some string'
-console.log(example)
+let example = 'some string';
+console.log(example);
